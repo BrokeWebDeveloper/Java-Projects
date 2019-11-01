@@ -64,8 +64,8 @@ public class consolePlusGUI
 	    else if (startornotscan.equalsIgnoreCase("n"))
 	    {
 	    	System.out.println("" + ifnoone + "");
-            TimeUnit.SECONDS.sleep(2);
-            System.exit(1);
+                TimeUnit.SECONDS.sleep(2);
+                System.exit(1);
 	    }
 	    
 	    else 
